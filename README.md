@@ -1,7 +1,4 @@
 # TelegramBot
-An example of creating and deploying telegram bot using python.
-
-For the article published on Medium: https://medium.com/@krsh37/learn-how-to-deploy-into-heroku-3158a41b46fb
 
 ## Creating a virtual environment
 
